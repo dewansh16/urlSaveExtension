@@ -32,3 +32,7 @@ Let's keep it simple
   - cd frontend
   - npm i
   - npm run dev
+
+
+https://github.com/dewansh16/urlSaveExtension/assets/75570560/3078b8d0-0c86-4947-89ee-b18a3281f0cb
+
